@@ -33,7 +33,8 @@ Este projeto utiliza HTML, CSS e JavaScript puro para calcular o IMC e exibir a 
 
 ## 🔗 Acesse o projeto
 
-
+Você pode visualizar o projeto em funcionamento aqui:  
+👉 [Calculadora IMC - GitHub Pages](https://thiagogosilva.github.io/calculadora-imc/)
 
 **Link para visualizar meu Mini Portfólio:**  
 🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
