@@ -31,10 +31,11 @@ Este projeto utiliza HTML, CSS e JavaScript puro para calcular o IMC e exibir a 
 ## 📌 Status
 - Projeto finalizado, responsivo e funcional!  
 
+## 🧑‍💻 Desenvolvido por
+
 **Thiago Silva**  
 - [GitHub](https://github.com/thiagogosilva)
 - [LinkedIn](https://www.linkedin.com/in/thiagogosilva)
-
 ## 🔗 Acesse o projeto
 
 Você pode visualizar o projeto em funcionamento aqui:  
